@@ -8,40 +8,40 @@ INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (5, 'TABLERO
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (6, 'TABLERO ASCENSOR LIMPIO - AZOTEA T-AP', '01.01.06', 8);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (7, 'TABLERO TIP-S', '01.01.07', 8);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (8, 'TABLERO TI-PI', '01.01.08', 8);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (9, 'CABLE: TG a TG-AF 2(3-1x185mm2 N2XOH-90 øC + 1x185mm2 N2XOH-90 øC (N)) + 
-1x50mm2 N2XOH-90 øC (T)', '01.02.01', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (10, 'CABLE: TG a TSG 2(3-1x150mm2 N2XOH-90 øC + 1x150mm2 N2XOH-90 øC (N))
- + 1x50mm2 N2XOH-90 øC (T)', '01.02.02', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (11, 'CABLE: TSG a T-AS 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N)
-+ 1x6mm2 N2XOH-90 øC (T)', '01.02.03', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (12, 'CABLE: TSG a T-AP 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N) 
-+ 1x6mm2 N2XOH-90 øC (T)', '01.02.04', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (13, 'CABLE: TSG a T-AA 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N) 
-+ 1x6mm2 N2XOH-90 øC (T)', '01.02.05', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (14, 'CABLE: TSG a T-AL 2(3-1x120mm2 N2XOH-90 øC + 1x120mm2 N2XOH-90 øC (N))
- + 1x50mm2 N2XOH-90 øC (T)', '01.02.06', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (15, 'CABLE: TG-AF a TIP-S 3-1x10mm2 N2XOH-90 øC+ 1x10mm2 N2XOH-90 øC (N) 
-+ 1x4mm2 N2XOH-90 øC (T)', '01.02.07', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (16, 'CABLE: TG-AF a TIP-P3 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N) 
-+ 1x6mm2 N2XOH-90 øC (T)', '01.02.10', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (17, 'CABLE: TG-AF a TFN-S 3-1x35mm2 N2XOH-90 øC+ 1x35mm2 N2XOH-90 øC (N) 
-+ 1x10mm2 N2XOH-90 øC (T)', '01.02.11', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (18, 'CABLE: TEST-3 a T-EST3 3-1x70mm2 N2XOH-90 øC+ 1x70mm2 N2XOH-90 øC (N) 
-+ 1x16mm2 N2XOH-90 øC (T)', '01.02.23', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (19, 'CABLE: TFN-S a TNS-1 3-1x25mm2 N2XOH-90 øC+ 1x25mm2 N2XOH-90 øC (N) 
-+ 1x10mm2 N2XOH-90 øC (T)', '01.02.24', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (20, 'CABLE: TFN-S a TEST-S 3-1x10mm2 N2XOH-90 øC+ 1x10mm2 N2XOH-90 øC (N)
- + 1x4mm2 N2XOH-90 øC (T)', '01.02.25', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (21, 'CABLE: TG-AA a TAA-S 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N) 
-+ 1x6mm2 N2XOH-90 øC (T)', '01.02.41', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (22, 'CABLE: TG-AA a TAA-4.1 3-1x10mm2 N2XOH-90 øC+ 1x10mm2 N2XOH-90 øC (N)
- + 1x4mm2 N2XOH-90 øC (T)', '01.02.45', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (23, 'CABLE: TG-AA a TAA-4.2 3-1x10mm2 N2XOH-90 øC+ 1x10mm2 N2XOH-90 øC (N)
- + 1x4mm2 N2XOH-90 øC (T)', '01.02.46', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (24, 'CABLE: TG-AA a TAA-4.3 3-1x35mm2 N2XOH-90 øC+ 1x35mm2 N2XOH-90 øC (N)
- + 1x10mm2 N2XOH-90 øC (T)', '01.02.47', 9);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (25, 'CABLE: TG-AA a TAA-4.4 3-1x16mm2 N2XOH-90 øC+ 1x16mm2 N2XOH-90 øC (N)
- + 1x6mm2 N2XOH-90 øC (T)', '01.02.48', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (9, 'CABLE: TG a TG-AF 2(3-1x185mm2 N2XOH-90 oC + 1x185mm2 N2XOH-90 oC (N)) + 
+1x50mm2 N2XOH-90 oC (T)', '01.02.01', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (10, 'CABLE: TG a TSG 2(3-1x150mm2 N2XOH-90 oC + 1x150mm2 N2XOH-90 oC (N))
+ + 1x50mm2 N2XOH-90 oC (T)', '01.02.02', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (11, 'CABLE: TSG a T-AS 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N)
++ 1x6mm2 N2XOH-90 oC (T)', '01.02.03', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (12, 'CABLE: TSG a T-AP 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N) 
++ 1x6mm2 N2XOH-90 oC (T)', '01.02.04', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (13, 'CABLE: TSG a T-AA 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N) 
++ 1x6mm2 N2XOH-90 oC (T)', '01.02.05', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (14, 'CABLE: TSG a T-AL 2(3-1x120mm2 N2XOH-90 oC + 1x120mm2 N2XOH-90 oC (N))
+ + 1x50mm2 N2XOH-90 oC (T)', '01.02.06', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (15, 'CABLE: TG-AF a TIP-S 3-1x10mm2 N2XOH-90 oC+ 1x10mm2 N2XOH-90 oC (N) 
++ 1x4mm2 N2XOH-90 oC (T)', '01.02.07', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (16, 'CABLE: TG-AF a TIP-P3 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N) 
++ 1x6mm2 N2XOH-90 oC (T)', '01.02.10', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (17, 'CABLE: TG-AF a TFN-S 3-1x35mm2 N2XOH-90 oC+ 1x35mm2 N2XOH-90 oC (N) 
++ 1x10mm2 N2XOH-90 oC (T)', '01.02.11', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (18, 'CABLE: TEST-3 a T-EST3 3-1x70mm2 N2XOH-90 oC+ 1x70mm2 N2XOH-90 oC (N) 
++ 1x16mm2 N2XOH-90 oC (T)', '01.02.23', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (19, 'CABLE: TFN-S a TNS-1 3-1x25mm2 N2XOH-90 oC+ 1x25mm2 N2XOH-90 oC (N) 
++ 1x10mm2 N2XOH-90 oC (T)', '01.02.24', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (20, 'CABLE: TFN-S a TEST-S 3-1x10mm2 N2XOH-90 oC+ 1x10mm2 N2XOH-90 oC (N)
+ + 1x4mm2 N2XOH-90 oC (T)', '01.02.25', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (21, 'CABLE: TG-AA a TAA-S 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N) 
++ 1x6mm2 N2XOH-90 oC (T)', '01.02.41', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (22, 'CABLE: TG-AA a TAA-4.1 3-1x10mm2 N2XOH-90 oC+ 1x10mm2 N2XOH-90 oC (N)
+ + 1x4mm2 N2XOH-90 oC (T)', '01.02.45', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (23, 'CABLE: TG-AA a TAA-4.2 3-1x10mm2 N2XOH-90 oC+ 1x10mm2 N2XOH-90 oC (N)
+ + 1x4mm2 N2XOH-90 oC (T)', '01.02.46', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (24, 'CABLE: TG-AA a TAA-4.3 3-1x35mm2 N2XOH-90 oC+ 1x35mm2 N2XOH-90 oC (N)
+ + 1x10mm2 N2XOH-90 oC (T)', '01.02.47', 9);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (25, 'CABLE: TG-AA a TAA-4.4 3-1x16mm2 N2XOH-90 oC+ 1x16mm2 N2XOH-90 oC (N)
+ + 1x6mm2 N2XOH-90 oC (T)', '01.02.48', 9);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (26, 'SALIDA PARA LUMINARIA PARA ADOSAR 
 DE LUZ DIRECTA DE 2X26W, 220V', '01.03.01.01', 1);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (27, 'SALIDA PARA LUMINARIA PARA INTERIORES PARA
@@ -93,11 +93,11 @@ INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (56, 'SALIDA
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (57, 'SALIDA ELECTRICAS INTERNAS EN CABINA DE ASCENSORES', '01.03.04.09', 4);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (58, 'TUBERÖA EMT DE 40 MM', '01.04.01.01', 5);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (59, 'TUBERÖA EMT DE 50 MM', '01.04.01.02', 5);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (60, 'CAJA DE PASE FøGø OCTOGONAL 100X40 MM', '01.04.02.01', 6);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (61, 'CAJA DE PASE FøGø DE 150X150X100 MM', '01.04.02.02', 6);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (62, 'CAJA DE PASE FøGø DE 200X200X100 MM', '01.04.02.03', 6);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (63, 'CAJA DE PASE FøGø DE 250X250X120 MM', '01.04.02.04', 6);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (64, 'CAJA DE PASE FøGø DE 300X300X150 MM', '01.04.02.05', 6);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (60, 'CAJA DE PASE F°G° OCTOGONAL 100X40 MM', '01.04.02.01', 6);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (61, 'CAJA DE PASE F°G° DE 150X150X100 MM', '01.04.02.02', 6);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (62, 'CAJA DE PASE F°G° DE 200X200X100 MM', '01.04.02.03', 6);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (63, 'CAJA DE PASE F°G° DE 250X250X120 MM', '01.04.02.04', 6);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (64, 'CAJA DE PASE F°G° DE 300X300X150 MM', '01.04.02.05', 6);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (65, 'BANDEJA ELECTRICA METALICA DE 800x250 MM', '01.04.03.01', 7);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (66, 'BANDEJA ELECTRICA METALICA DE 500x150 MM', '01.04.03.02', 7);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (67, 'BANDEJA ELECTRICA METALICA DE 400x150 MM', '01.04.03.03', 7);
@@ -134,11 +134,11 @@ INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (89, 'SALIDA
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (90, 'TUBERÖA PVC SAP DE 40 MM', '02.01.02.01', 14);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (91, 'TUBERÖA PVC SAP DE 50 MM', '02.01.02.02', 14);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (92, 'TUBERÖA EMT DE 50 MM', '02.01.02.03', 14);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (93, 'CAJA DE PASE FøGø DE 100X100X50 MM', '02.01.03.01', 15);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (94, 'CAJA DE PASE FøGø DE 100X100X100 MM', '02.01.03.02', 15);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (95, 'CAJA DE PASE FøGø DE 150X150X100 MM', '02.01.03.03', 15);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (96, 'CAJA DE PASE FøGø DE 200X200X100 MM', '02.01.03.04', 15);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (97, 'CAJA DE PASE FøGø DE 300X300X250 MM', '02.01.03.05', 15);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (93, 'CAJA DE PASE F°G° DE 100X100X50 MM', '02.01.03.01', 15);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (94, 'CAJA DE PASE F°G° DE 100X100X100 MM', '02.01.03.02', 15);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (95, 'CAJA DE PASE F°G° DE 150X150X100 MM', '02.01.03.03', 15);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (96, 'CAJA DE PASE F°G° DE 200X200X100 MM', '02.01.03.04', 15);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (97, 'CAJA DE PASE F°G° DE 300X300X250 MM', '02.01.03.05', 15);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (98, 'BANDEJA COMUNICACIONES METALICA DE 500X100 MM', '02.01.04.01', 16);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (99, 'BANDEJA COMUNICACIONES METALICA DE 400X150 MM', '02.01.04.02', 16);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (100, 'BANDEJA COMUNICACIONES METALICA DE 200X100 MM', '02.01.04.03', 16);
@@ -151,7 +151,7 @@ INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (105, 'SALID
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (106, 'SALIDA PARA PULSADOR DE ALARMA CONTRA INCENDIO', '02.02.01.05', 17);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (107, 'SALIDA PARA CACI', '02.02.01.06', 17);
 INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (108, 'TUBERÖA EMT DE 25 MM', '02.02.02.01', 18);
-INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (109, 'CAJA DE PASE FøGø DE 100X100X50 MM', '02.02.03.01', 19);
+INSERT INTO partidas (id, descripcion, codigo, sub_rubro_id) VALUES (109, 'CAJA DE PASE F°G° DE 100X100X50 MM', '02.02.03.01', 19);
 
 -- migrate:down 
 
